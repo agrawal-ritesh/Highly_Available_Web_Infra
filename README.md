@@ -1,1 +1,1 @@
-Deploying Highy Available Web Infrastucture on Azure.
+Deploying Highly Available Web Infrastucture on Azure.
